@@ -125,4 +125,11 @@ Computer Science Engineer | Python | Cybersecurity | Software Development
 ## 📄 License
 
 This project is licensed under the MIT License.
+## 📸 Screenshots
+
+### Baseline Creation
+![Baseline Creation](baseline-creation.png)
+
+### Modified File Detection
+![Modified File Detection](modified-file-detection.png)
 
